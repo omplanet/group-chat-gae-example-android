@@ -1,7 +1,7 @@
 Group Chat GAE Example Android
 =====================================
 
-This project is Android native client for the StarWheel application. It is connected to the Google App Engine backend, uses Google Cloud Endpoints API and integrates the source codes from Google Mobile Backend Starter example.
+This project is an Android client for group chat using push notification. It is connected to the Google App Engine backend, uses Google Cloud Endpoints API and integrates the source codes from Google Mobile Backend Starter example.
 
 ## Products
 - [App Engine][1]
