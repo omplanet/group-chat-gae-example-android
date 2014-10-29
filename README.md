@@ -6,8 +6,7 @@ This project is Android native client for the StarWheel application. It is conne
 ## Products
 - [App Engine][1]
 - [Android][2]
-- [Mobile Backend Starter Java][3]
-- 
+
 ## Setup Instructions
 The instruction below lists just some key steps.
 For detailed setup instructions and documentation visit [Google App Engine developer site] (https://developers.google.com/cloud/samples/mbs).
